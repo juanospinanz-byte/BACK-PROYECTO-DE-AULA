@@ -27,6 +27,10 @@ Este proyecto es una aplicación backend desarrollada con Spring Boot que permit
 ## Funcionalidades
 - Registrar, listar, editar y eliminar vehículos.
 - Registrar, listar, editar y eliminar motos.
+- GET: Listar o buscar registros
+- POST: Crear nuevos vehículos o motos
+- PUT: Actualizar información existente
+- DELETE: Eliminar registros
 
 ---
 
@@ -35,10 +39,6 @@ para acceder al proyecto cuando se ejecuta, hay que poner los siguientes links.
 
 - para acceder a la de vehiculos hay que poner http://localhost:8080/api/vehiculos
 - para acceder a la de motos hay que poner http://localhost:8080/api/motos
-- GET: Listar o buscar registros
-- POST: Crear nuevos vehículos o motos
-- PUT: Actualizar información existente
-- DELETE: Eliminar registros
 
 ---
 
