@@ -50,8 +50,24 @@ para acceder al proyecto cuando se ejecuta, hay que poner los siguientes links.
 
 ---
 
-## estructura
-dentro del proyecto en el src/, despues en el main/ y por ultimo en el java/com/example/. esta el VehiculosRestApplication.java que sirve para ejecutar el proyecto y despues estan las classes que estan en controller, dto, model, repository y service
+## Estructura del proyecto
+
+```
+vehiculos-proyecto/
+│
+├── src/
+│   ├── main/java/com/example/
+│   │   ├── VehiculosRestApplication.java     
+│   │   ├── config/                           
+│   │   └── vehiculos/
+│   │       ├── controller/                   
+│   │       ├── dto/                          
+│   │       ├── model/                       
+│   │       ├── repository/                
+│   │       └── service/                    
+│   └── resources/
+│       └── application.properties            
+```
 
 ---
 
