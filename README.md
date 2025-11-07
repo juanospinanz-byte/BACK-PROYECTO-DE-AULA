@@ -52,22 +52,7 @@ para acceder al proyecto cuando se ejecuta, hay que poner los siguientes links.
 
 ## Estructura del proyecto
 
-```
-vehiculos-proyecto/
-│
-├── src/
-│   ├── main/java/com/example/
-│   │   ├── VehiculosRestApplication.java     
-│   │   ├── config/                           
-│   │   └── vehiculos/
-│   │       ├── controller/                   
-│   │       ├── dto/                          
-│   │       ├── model/                       
-│   │       ├── repository/                
-│   │       └── service/                    
-│   └── resources/
-│       └── application.properties            
-```
+<img width="355" height="686" alt="imagen" src="https://github.com/user-attachments/assets/acf14b54-7c49-4577-b57c-720684b40c70" />
 
 ---
 
