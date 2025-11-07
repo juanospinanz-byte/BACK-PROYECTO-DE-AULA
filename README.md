@@ -63,4 +63,15 @@ para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner
 - repository/
 - service/
 
+## capturas
+### vehiculos
+<img width="1916" height="882" alt="imagen" src="https://github.com/user-attachments/assets/4e58fe8e-0bfc-4496-8883-c8320c542127" />
+<img width="1915" height="844" alt="imagen" src="https://github.com/user-attachments/assets/8f71c28c-50ae-44cc-b3fc-477d68151a28" />
+
+### motos
+<img width="1919" height="832" alt="imagen" src="https://github.com/user-attachments/assets/657d1bf2-64ca-4aac-8daf-9c3a97ac32a1" />
+<img width="1919" height="720" alt="imagen" src="https://github.com/user-attachments/assets/1f581c33-4310-49ce-a744-37f936b611ee" />
+
+
+
 
