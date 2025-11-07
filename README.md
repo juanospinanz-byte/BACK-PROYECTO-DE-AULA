@@ -13,11 +13,10 @@ Este proyecto es una aplicación backend desarrollada con Spring Boot que permit
 - Spring Boot Data JPA
 - H2 Database
 - Swagger
-- Maven
 
 ---
 
-## Objetivos del Proyecto
+## Objetivos
 - Facilitar el almacenamiento estructurado que sirve guardar informacion que uno ponga de vehiculos y de motos.
 - Sirve como forma de aprender, al ser la primera vez que se hace este tipo de proyecto, se aprendio mucho a lo largo del semestre haciendo esto.
 - Permitir realizar en el proyecto hacer el metodo crear Actualizar y Eliminar al estar creando las motos y vehiculos
@@ -34,8 +33,8 @@ Este proyecto es una aplicación backend desarrollada con Spring Boot que permit
 
 ---
 
-## Como acceder en la pagina
-para acceder al proyecto cuando se ejecuta, hay que poner los siguientes links.
+## Como acceder en el navegador
+para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner los siguientes links en el buscador.
 
 - para acceder a la de vehiculos hay que poner http://localhost:8080/api/vehiculos
 - para acceder a la de motos hay que poner http://localhost:8080/api/motos
