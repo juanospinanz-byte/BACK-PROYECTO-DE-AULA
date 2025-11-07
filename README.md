@@ -63,7 +63,7 @@ para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner
 - repository/
 - service/
 
-## capturas
+## capturas del funcionamiento
 ## vehiculos
 <img width="1443" height="886" alt="imagen" src="https://github.com/user-attachments/assets/64dce6f1-946e-4847-9a2d-e2c5e85f09ee" />
 <img width="1436" height="851" alt="imagen" src="https://github.com/user-attachments/assets/db22cd0e-c637-4033-847f-e0f003c3f19e" />
