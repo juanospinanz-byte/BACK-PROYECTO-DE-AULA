@@ -1,15 +1,19 @@
-# Proyecto Backend 
+# Proyecto
+Autor: Juan Esteban Ospina Pinzón
+
+---
 
 ## Descripcion
 Este proyecto es una aplicación backend desarrollada con Spring Boot que permite la gestión de vehículos y motos, este proyecto se estuvo haciendo a lo largo del semestre en la materia de lenguajes de programacion. El SpringBoot se estuvo haciendo para despues hacer otro archvio que era un Front en React.js. El proyecto sirve tambien parecido como si fuera una base de datos cuando se pone la informacion en el archivo del Front que ahi se puede poner tambien la informacion al poner inormacion de carros o motos en el Front
 
 ---
 
-## Dependencias usadas
+## Que se uso
 - Spring Boot Web
 - Spring Boot Data JPA
 - H2 Database
 - Swagger
+- Maven
 
 ---
 
@@ -31,6 +35,10 @@ para acceder al proyecto cuando se ejecuta, hay que poner los siguientes links.
 
 - para acceder a la de vehiculos hay que poner http://localhost:8080/api/vehiculos
 - para acceder a la de motos hay que poner http://localhost:8080/api/motos
+- GET: Listar o buscar registros
+- POST: Crear nuevos vehículos o motos
+- PUT: Actualizar información existente
+- DELETE: Eliminar registros
 
 ---
 
@@ -45,5 +53,14 @@ para acceder al proyecto cuando se ejecuta, hay que poner los siguientes links.
 ## estructura
 dentro del proyecto en el src/, despues en el main/ y por ultimo en el java/com/example/. esta el VehiculosRestApplication.java que sirve para ejecutar el proyecto y despues estan las classes que estan en controller, dto, model, repository y service
 
+---
+
+## Componentes que tiene 
+
+- model/
+- controller/
+- dto/
+- repository/
+- service/
 
 
