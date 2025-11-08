@@ -55,6 +55,17 @@ para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner
 
 ---
 
+
+## Arquitectura del proyecto
+
+- model/
+- controller/
+- dto/
+- repository/
+- service/
+
+---
+
 ## capturas del funcionamiento
 ## vehiculos
 <img width="1442" height="887" alt="imagen" src="https://github.com/user-attachments/assets/d1a505b7-f569-49e3-bd8e-f398de62c15e" />
