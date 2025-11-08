@@ -8,7 +8,7 @@ Este proyecto es una aplicación backend desarrollada con Spring Boot que permit
 
 ---
 
-## Que se uso
+## Dependencias que se uso
 - Spring Boot Web
 - Spring Boot Data JPA
 - H2 Database
