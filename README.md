@@ -12,7 +12,6 @@ Este proyecto es una aplicación backend desarrollada con Spring Boot que permit
 - Spring Boot Web
 - Spring Boot Data JPA
 - H2 Database
-- Swagger
 
 ---
 
