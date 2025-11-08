@@ -26,8 +26,8 @@ Facilitar el almacenamiento de los vehículos y motos que uno pone permitiendo d
 - Registrar, mostrar, editar y eliminar motos.
 - GET: Se muestra los registros guardados
 - POST: Crear nuevos vehículos o motos
-- PUT: Actualizar información existente
-- DELETE: Eliminar registros
+- PUT: Actualizar la información existente
+- DELETE: Eliminar los registros
 
 ---
 
