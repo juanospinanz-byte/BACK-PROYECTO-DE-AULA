@@ -48,7 +48,7 @@ Para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner
 
 ## Estructura del proyecto
 
-<img width="355" height="686" alt="imagen" src="https://github.com/user-attachments/assets/acf14b54-7c49-4577-b57c-720684b40c70" />
+<img width="373" height="723" alt="imagen" src="https://github.com/user-attachments/assets/205dff52-1ac8-494d-8ad7-971024ef2048" />
 
 ---
 
