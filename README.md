@@ -36,10 +36,11 @@ Para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner
 
 ---
 
-## Característica 
+## Características principales
 
 - Poder crear un vehiculo en el cual se pueda mostrar, editar y eliminar información.
 - Poder crear una moto en el cual se pueda mostrar, editar y eliminar información.
+- Poder que en el vehiculo o en la moto muestre la ImagenUrl de la imagen que uno haya elegido
 
 ---
 
