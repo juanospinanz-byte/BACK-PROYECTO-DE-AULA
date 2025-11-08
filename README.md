@@ -8,10 +8,10 @@ Este proyecto es una aplicación backend desarrollada con Spring Boot que permit
 
 ---
 
-## Dependencias que se uso
+## Dependencias
 - Spring Boot Web
 - Spring Boot Data JPA
-- H2 
+- H2
 
 ---
 
@@ -40,6 +40,7 @@ Para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner
 
 - Poder crear un vehiculo en el cual se pueda mostrar, editar y eliminar información.
 - Poder crear una moto en el cual se pueda mostrar, editar y eliminar información.
+- Que se muestre los datos que uno haya puesto al crear la moto o el carro, que tenga que mostrar la marca, año, modelo y la imagenUrl de la imagen que uno selecciono
 
 ---
 
