@@ -34,17 +34,17 @@ Este proyecto es una aplicación backend desarrollada con Spring Boot que permit
 ---
 
 ## Como acceder en el navegador
-para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner los siguientes links en el buscador.
+Para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner los siguientes links en el buscador.
 
-- para acceder a la de vehiculos hay que poner http://localhost:8080/api/vehiculos
-- para acceder a la de motos hay que poner http://localhost:8080/api/motos
+- Para acceder a la de vehiculos hay que poner http://localhost:8080/api/vehiculos
+- Para acceder a la de motos hay que poner http://localhost:8080/api/motos
 
 ---
 
 ## Características Principales
 
-- Gestión completa de vehículos que permite registrar, consultar, actualizar y eliminar información.
-- Geston de motos que tambien permite registrar, consultar, actualizar y eliminar información.
+- Poder crear un vehiculo en el cual se pueda consultar, actualizar y eliminar información.
+- Poder crear una moto en el cual se pueda consultar, actualizar y eliminar información.
 - Integración de H2
 
 ---
