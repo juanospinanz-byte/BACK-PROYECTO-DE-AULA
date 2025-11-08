@@ -21,7 +21,7 @@ Facilitar el almacenamiento de los vehículos y motos que uno pone permitiendo d
 ---
 
 ## Funcionalidades
-- GET: Se muestra los registros guardados
+- GET: Mostrar los registros guardados
 - POST: Crear nuevos vehículos o motos
 - PUT: Actualizar la información existente
 - DELETE: Eliminar los registros
