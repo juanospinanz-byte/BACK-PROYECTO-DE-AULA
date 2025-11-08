@@ -67,9 +67,10 @@ para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner
 
 ## capturas del funcionamiento
 ## vehiculos
-<img width="1443" height="886" alt="imagen" src="https://github.com/user-attachments/assets/64dce6f1-946e-4847-9a2d-e2c5e85f09ee" />
-<img width="1436" height="851" alt="imagen" src="https://github.com/user-attachments/assets/db22cd0e-c637-4033-847f-e0f003c3f19e" />
-<img width="1439" height="885" alt="imagen" src="https://github.com/user-attachments/assets/7d101c0f-242c-437d-b922-ddf75158bac8" />
+<img width="1442" height="887" alt="imagen" src="https://github.com/user-attachments/assets/d1a505b7-f569-49e3-bd8e-f398de62c15e" />
+<img width="1446" height="883" alt="imagen" src="https://github.com/user-attachments/assets/bc81ba5f-4ebc-48d4-8934-91c46f2c6802" />
+<img width="1439" height="878" alt="imagen" src="https://github.com/user-attachments/assets/f24d92e6-46e3-4d86-89d3-3d6eb7260203" />
+
 
 ## motos
 <img width="1435" height="893" alt="imagen" src="https://github.com/user-attachments/assets/c68a9cad-c5bc-45c0-95b8-5802639c2b78" />
