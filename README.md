@@ -21,8 +21,6 @@ Facilitar el almacenamiento de los vehículos y motos que uno pone permitiendo d
 ---
 
 ## Funcionalidades
-- Registrar, mostrar, editar y eliminar vehículos.
-- Registrar, mostrar, editar y eliminar motos.
 - GET: Se muestra los registros guardados
 - POST: Crear nuevos vehículos o motos
 - PUT: Actualizar la información existente
@@ -40,8 +38,8 @@ Para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner
 
 ## Características Principales
 
-- Poder crear un vehiculo en el cual se pueda consultar, actualizar y eliminar información.
-- Poder crear una moto en el cual se pueda consultar, actualizar y eliminar información.
+- Poder crear un vehiculo en el cual se pueda mostrar, editar y eliminar información.
+- Poder crear una moto en el cual se pueda mostrar, editar y eliminar información.
 - Integración de H2
 
 ---
