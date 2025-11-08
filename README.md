@@ -63,9 +63,13 @@ para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner
 
 
 ## motos
-<img width="1435" height="893" alt="imagen" src="https://github.com/user-attachments/assets/c68a9cad-c5bc-45c0-95b8-5802639c2b78" />
-<img width="1442" height="846" alt="imagen" src="https://github.com/user-attachments/assets/645b09a0-d033-47e2-ab40-692e1aef0f8b" />
-<img width="1430" height="817" alt="imagen" src="https://github.com/user-attachments/assets/d00b2ed4-f0f8-4d5d-9126-d35f47a80009" />
+<img width="1439" height="865" alt="imagen" src="https://github.com/user-attachments/assets/65dd82b6-5b70-4664-aadc-1d4f43609745" />
+<img width="1443" height="862" alt="imagen" src="https://github.com/user-attachments/assets/8cce04b8-9e44-4116-b490-b253076c5b32" />
+<img width="1440" height="856" alt="imagen" src="https://github.com/user-attachments/assets/dbd51f86-8206-446a-b716-19b885b5f769" />
+
+
+
+
 
 
 
