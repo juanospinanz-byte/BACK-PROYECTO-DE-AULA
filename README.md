@@ -4,7 +4,7 @@ Autor: Juan Esteban Ospina Pinzón
 ---
 
 ## Descripcion
-Este proyecto es una aplicación backend desarrollada con Spring Boot que permite la creacion de vehículos y motos, este proyecto se estuvo haciendo a lo largo del semestre en la materia de lenguajes de programacion. Cuando se crea el carro o la moto, se mostrara la informacion de lo que se puso, se mostraria la  marca, modelo, año y ImagenUrl
+Este proyecto es una aplicación backend desarrollada con Spring Boot que permite la creacion de vehículos y motos, este proyecto se estuvo haciendo a lo largo del semestre en la materia de lenguajes de programacion. Cuando se crea el vehiculo o la moto, se mostrara la informacion de lo que se puso, se mostraria la  marca, modelo, año y ImagenUrl
 
 ---
 
