@@ -16,9 +16,8 @@ Este proyecto es una aplicación backend desarrollada con Spring Boot que permit
 
 ---
 
-## Objetivos
-- Facilitar el almacenamiento en el cual se puede guardar la informacion que uno ponga de vehiculos y de motos.
-- Permitir realizar en el proyecto hacer el metodo crear Actualizar y Eliminar al estar creando las motos y vehiculos
+## Objetivo
+Facilitar el almacenamiento de los vehículos y motos que uno pone permitiendo despues que uno pueda ver la informacion que uno puso del vehiculo y de la moto, tambien que el estudiante pueda aprender a como hacer este tipo de proyectos y pueda aprender como funciona y asi el estudiante pueda tener la idea de como hacer este tipo de proyectos
 
 ---
 
