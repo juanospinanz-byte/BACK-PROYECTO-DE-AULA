@@ -11,7 +11,7 @@ Este proyecto es una aplicación backend desarrollada con Spring Boot que permit
 ## Dependencias que se uso
 - Spring Boot Web
 - Spring Boot Data JPA
-- H2 Database
+- H2 
 
 ---
 
@@ -36,11 +36,10 @@ Para acceder al proyecto en el navegador cuando esta ejecutandose, hay que poner
 
 ---
 
-## Características Principales
+## Característica 
 
 - Poder crear un vehiculo en el cual se pueda mostrar, editar y eliminar información.
 - Poder crear una moto en el cual se pueda mostrar, editar y eliminar información.
-- Integración de H2
 
 ---
 
